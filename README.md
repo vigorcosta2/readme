@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vigorcosta2/vigorcosta2/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/vigorcosta2/vigorcosta2/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
 
 ###
